@@ -1,0 +1,1 @@
+export const LOGIN_BY_PHONE = (phone, password) => `/login/cellphone?phone=${phone}&password=${password}`
